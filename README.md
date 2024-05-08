@@ -1,3 +1,1 @@
-# Practice
-Learning git commands
- hello mate
+hello mate
